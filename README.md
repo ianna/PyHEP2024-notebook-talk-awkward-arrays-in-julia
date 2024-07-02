@@ -1,10 +1,9 @@
-# PyHEP Notebook Talk Example
+# AwkwardArrays in Julia for High-Energy Physics Data Analysis
 
-Example repository structure for a PyHEP style "notebook talk"
+<!---- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthewfeickert/pyhep-notebook-talk-example/HEAD?urlpath=lab/tree/talk.ipynb)
+[![DOI](https://zenodo.org/badge/381276327.svg)](https://zenodo.org/badge/latestdoi/381276327)--->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthewfeickert/pyhep-notebook-talk-example/HEAD?urlpath=lab/tree/talk.ipynb)
-[![DOI](https://zenodo.org/badge/381276327.svg)](https://zenodo.org/badge/latestdoi/381276327)
-
+<!----
 > N.B.: If you have questions on how to build a notebook talk, or the instructions below for sharing your notebook talk with Binder and preserving it with Zenodo please ask in the [GitHub Discussions](https://github.com/matthewfeickert/pyhep-notebook-talk-example/discussions)!
 
 ## Presentation Resources
@@ -123,3 +122,4 @@ In a clean virtual environment install the dependencies (which are under the `bi
 ```console
 python -m pip install -r binder/requirements.txt
 ```
+--->
