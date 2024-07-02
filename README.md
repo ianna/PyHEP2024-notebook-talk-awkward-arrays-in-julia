@@ -1,7 +1,36 @@
+<div>
+<img src="img/IRIS-HEP%20logo.png" width="150" align="right"/>
+</div>
+
 # AwkwardArrays in Julia for High-Energy Physics Data Analysis
 
+This is the repository for the talk presented at the [PyHEP 2024 Workshop](https://indico.cern.ch/event/1384010/) on July 3rd, 2024.
 <!---- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthewfeickert/pyhep-notebook-talk-example/HEAD?urlpath=lab/tree/talk.ipynb)
 [![DOI](https://zenodo.org/badge/381276327.svg)](https://zenodo.org/badge/latestdoi/381276327)--->
+
+## Abstract
+
+AwkwardArrays are well known to Python users for their powerful capabilities in handling irregular, nested data structures with ease. While Python has been the primary language for implementing AwkwardArrays, the recent integration into Julia offers new possibilities for data scientists and researchers.
+
+In this talk, we will explore the implementation and advantages of using AwkwardArrays within the Julia programming environment, tailored for an audience familiar with Python. We will begin with an overview of AwkwardArrays, highlighting their key features and importance in HEP data analysis. Following this, we will look into the specifics of Julia’s implementation, showing how it leverages Julia’s strengths such as just-in-time compilation and multiple dispatch to achieve superior performance.
+
+Through a series of live demonstrations and code examples, participants will learn how to create, manipulate, and analyze AwkwardArrays in Julia. Key topics will include efficient array creation, advanced indexing techniques, broadcasting, and aggregation. Additionally, we will discuss interoperability between Python and Julia, providing practical guidance on how to integrate Julia-based AwkwardArrays into existing Python workflows for a more efficient and scalable analysis.
+
+## Authors
+<div>
+<img src="img/Princeton%20logo.png" width="150" align="right"/>
+</div>
+
+- Ianna Osborne, Princeton University
+- Jim Pivarski, Princeton University
+- Jerry 🦑 Ling, Harvard University
+
+## Acknowledgements
+<div>
+<img src="img/NSF%20logo.png" width="60" align="left"/>
+</div>
+
+Support for this work was provided by NSF cooperative agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) (IRIS-HEP)
 
 <!----
 > N.B.: If you have questions on how to build a notebook talk, or the instructions below for sharing your notebook talk with Binder and preserving it with Zenodo please ask in the [GitHub Discussions](https://github.com/matthewfeickert/pyhep-notebook-talk-example/discussions)!
